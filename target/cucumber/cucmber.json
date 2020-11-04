@@ -1,0 +1,560 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2020-11-04T06:39:28.591Z",
+        "line": 3,
+        "name": "Verify user is successsfully navigated to Green kart Landing page",
+        "description": "",
+        "id": "greenkart-app-validation;verify-user-is-successsfully-navigated-to-green-kart-landing-page",
+        "after": [
+          {
+            "result": {
+              "duration": 294000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepdefenation.Hooks.teardown()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 6432000000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user navigated to the Greenkart site \"https://rahulshettyacademy.com/seleniumPractise/#/\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "https://rahulshettyacademy.com/seleniumPractise/#/",
+                  "offset": 38
+                }
+              ],
+              "location": "stepdefenation.Stepdef1.user_navigated_to_the_greenkart_site_something(java.lang.String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 56000000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user is able to validate the Logo",
+            "match": {
+              "location": "stepdefenation.Stepdef1.user_is_able_to_validate_the_logo()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-11-04T06:39:35.545Z",
+        "line": 9,
+        "name": "Verify the user is able to search the brinjal",
+        "description": "",
+        "id": "greenkart-app-validation;verify-the-user-is-able-to-search-the-brinjal",
+        "after": [
+          {
+            "result": {
+              "duration": 345000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepdefenation.Hooks.teardown()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 5315000000,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "user navigated to the Greenkart site \"https://rahulshettyacademy.com/seleniumPractise/#/\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "https://rahulshettyacademy.com/seleniumPractise/#/",
+                  "offset": 38
+                }
+              ],
+              "location": "stepdefenation.Stepdef1.user_navigated_to_the_greenkart_site_something(java.lang.String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 4291000000,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "user entered the text \"brinjal\" in search box",
+            "match": {
+              "arguments": [
+                {
+                  "val": "brinjal",
+                  "offset": 23
+                }
+              ],
+              "location": "stepdefenation.Stepdef1.user_entered_the_text_something_in_search_box(java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 59000000,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "user is able to see the search result",
+            "match": {
+              "location": "stepdefenation.Stepdef1.user_is_able_to_see_the_search_result()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-11-04T06:39:45.586Z",
+        "line": 16,
+        "name": "verify the user is able to add the vegetable to the cart",
+        "description": "",
+        "id": "greenkart-app-validation;verify-the-user-is-able-to-add-the-vegetable-to-the-cart",
+        "after": [
+          {
+            "result": {
+              "duration": 338000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepdefenation.Hooks.teardown()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 5411000000,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "user navigated to the Greenkart site \"https://rahulshettyacademy.com/seleniumPractise/#/\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "https://rahulshettyacademy.com/seleniumPractise/#/",
+                  "offset": 38
+                }
+              ],
+              "location": "stepdefenation.Stepdef1.user_navigated_to_the_greenkart_site_something(java.lang.String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 4411000000,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "user entered the text \"brinjal\" in search box",
+            "match": {
+              "arguments": [
+                {
+                  "val": "brinjal",
+                  "offset": 23
+                }
+              ],
+              "location": "stepdefenation.Stepdef1.user_entered_the_text_something_in_search_box(java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 55000000,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "user is able to see the search result",
+            "match": {
+              "location": "stepdefenation.Stepdef1.user_is_able_to_see_the_search_result()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 184000000,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "user clicks on Add to cart",
+            "match": {
+              "location": "stepdefenation.Stepdef1.user_clicks_on_add_to_cart()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 4448000000,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "clicks on cart icon",
+            "match": {
+              "location": "stepdefenation.Stepdef1.clicks_on_cart_icon()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 173000000,
+              "status": "passed"
+            },
+            "line": 23,
+            "name": "the user is able to see the added item in the cart",
+            "match": {
+              "location": "stepdefenation.Stepdef1.the_user_is_able_to_see_the_added_item_in_the_cart()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Greenkart app validation",
+    "description": "",
+    "id": "greenkart-app-validation",
+    "keyword": "Feature",
+    "uri": "file:src/test/java/feature/demo1.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2020-11-04T06:40:00.640Z",
+        "line": 3,
+        "name": "verify the user is able to see the facebook logo in landing page",
+        "description": "",
+        "id": "verify-the-facebook-login-functionality;verify-the-user-is-able-to-see-the-facebook-logo-in-landing-page",
+        "after": [
+          {
+            "result": {
+              "duration": 4515000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepdefenation.Hooks.teardown()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 7717000000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user navigated to the facebook login page \"https://www.facebook.com/\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "https://www.facebook.com/",
+                  "offset": 43
+                }
+              ],
+              "location": "stepdefenation.stepdef2.user_navigated_to_the_facebook_login_page_something(java.lang.String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 104000000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user is able to see the facebook logo",
+            "match": {
+              "location": "stepdefenation.stepdef2.user_is_able_to_see_the_facebook_logo()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-11-04T06:40:13.038Z",
+        "line": 17,
+        "name": "Verify the user is able to enter different users cred\u0027s in fb login fields",
+        "description": "",
+        "id": "verify-the-facebook-login-functionality;verify-the-user-is-able-to-enter-different-users-cred-s-in-fb-login-fields;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 4280000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepdefenation.Hooks.teardown()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 6477000000,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "user navigated to the facebook login page \"https://www.facebook.com/\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "https://www.facebook.com/",
+                  "offset": 43
+                }
+              ],
+              "location": "stepdefenation.stepdef2.user_navigated_to_the_facebook_login_page_something(java.lang.String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 264000000,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "user entered the usernameuser1 and password123",
+            "match": {
+              "arguments": [
+                {
+                  "val": "user1",
+                  "offset": 25
+                },
+                {
+                  "val": "123",
+                  "offset": 43
+                }
+              ],
+              "location": "stepdefenation.stepdef2.user_entered_the_username_and_password(java.lang.String,java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 154000000,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "clicked on Login",
+            "match": {
+              "location": "stepdefenation.stepdef2.clicked_on_login()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1000000,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "user is able to login to fb account",
+            "match": {
+              "location": "stepdefenation.stepdef2.user_is_able_to_login_to_fb_account()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-11-04T06:40:24.235Z",
+        "line": 18,
+        "name": "Verify the user is able to enter different users cred\u0027s in fb login fields",
+        "description": "",
+        "id": "verify-the-facebook-login-functionality;verify-the-user-is-able-to-enter-different-users-cred-s-in-fb-login-fields;;3",
+        "after": [
+          {
+            "result": {
+              "duration": 4308000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepdefenation.Hooks.teardown()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 5799000000,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "user navigated to the facebook login page \"https://www.facebook.com/\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "https://www.facebook.com/",
+                  "offset": 43
+                }
+              ],
+              "location": "stepdefenation.stepdef2.user_navigated_to_the_facebook_login_page_something(java.lang.String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 259000000,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "user entered the usernameuser2 and password456",
+            "match": {
+              "arguments": [
+                {
+                  "val": "user2",
+                  "offset": 25
+                },
+                {
+                  "val": "456",
+                  "offset": 43
+                }
+              ],
+              "location": "stepdefenation.stepdef2.user_entered_the_username_and_password(java.lang.String,java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 155000000,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "clicked on Login",
+            "match": {
+              "location": "stepdefenation.stepdef2.clicked_on_login()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "user is able to login to fb account",
+            "match": {
+              "location": "stepdefenation.stepdef2.user_is_able_to_login_to_fb_account()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-11-04T06:40:34.781Z",
+        "line": 19,
+        "name": "Verify the user is able to enter different users cred\u0027s in fb login fields",
+        "description": "",
+        "id": "verify-the-facebook-login-functionality;verify-the-user-is-able-to-enter-different-users-cred-s-in-fb-login-fields;;4",
+        "after": [
+          {
+            "result": {
+              "duration": 4287000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepdefenation.Hooks.teardown()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 5968000000,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "user navigated to the facebook login page \"https://www.facebook.com/\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "https://www.facebook.com/",
+                  "offset": 43
+                }
+              ],
+              "location": "stepdefenation.stepdef2.user_navigated_to_the_facebook_login_page_something(java.lang.String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 332000000,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "user entered the username8790148056 and password123019290",
+            "match": {
+              "arguments": [
+                {
+                  "val": "8790148056",
+                  "offset": 25
+                },
+                {
+                  "val": "123019290",
+                  "offset": 48
+                }
+              ],
+              "location": "stepdefenation.stepdef2.user_entered_the_username_and_password(java.lang.String,java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 174000000,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "clicked on Login",
+            "match": {
+              "location": "stepdefenation.stepdef2.clicked_on_login()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "user is able to login to fb account",
+            "match": {
+              "location": "stepdefenation.stepdef2.user_is_able_to_login_to_fb_account()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Verify the facebook login functionality",
+    "description": "",
+    "id": "verify-the-facebook-login-functionality",
+    "keyword": "Feature",
+    "uri": "file:src/test/java/feature/demo2.feature",
+    "tags": []
+  }
+]
