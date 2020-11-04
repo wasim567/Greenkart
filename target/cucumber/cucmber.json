@@ -3,7 +3,7 @@
     "line": 1,
     "elements": [
       {
-        "start_timestamp": "2020-11-04T06:39:28.591Z",
+        "start_timestamp": "2020-11-04T07:09:28.503Z",
         "line": 3,
         "name": "Verify user is successsfully navigated to Green kart Landing page",
         "description": "",
@@ -11,7 +11,7 @@
         "after": [
           {
             "result": {
-              "duration": 294000000,
+              "duration": 355000000,
               "status": "passed"
             },
             "match": {
@@ -24,7 +24,7 @@
         "steps": [
           {
             "result": {
-              "duration": 6432000000,
+              "duration": 9000000000,
               "status": "passed"
             },
             "line": 5,
@@ -42,7 +42,7 @@
           },
           {
             "result": {
-              "duration": 56000000,
+              "duration": 62000000,
               "status": "passed"
             },
             "line": 6,
@@ -55,7 +55,7 @@
         ]
       },
       {
-        "start_timestamp": "2020-11-04T06:39:35.545Z",
+        "start_timestamp": "2020-11-04T07:09:38.108Z",
         "line": 9,
         "name": "Verify the user is able to search the brinjal",
         "description": "",
@@ -63,7 +63,7 @@
         "after": [
           {
             "result": {
-              "duration": 345000000,
+              "duration": 257000000,
               "status": "passed"
             },
             "match": {
@@ -76,7 +76,7 @@
         "steps": [
           {
             "result": {
-              "duration": 5315000000,
+              "duration": 5128000000,
               "status": "passed"
             },
             "line": 11,
@@ -94,7 +94,7 @@
           },
           {
             "result": {
-              "duration": 4291000000,
+              "duration": 4337000000,
               "status": "passed"
             },
             "line": 12,
@@ -112,7 +112,7 @@
           },
           {
             "result": {
-              "duration": 59000000,
+              "duration": 57000000,
               "status": "passed"
             },
             "line": 13,
@@ -125,7 +125,7 @@
         ]
       },
       {
-        "start_timestamp": "2020-11-04T06:39:45.586Z",
+        "start_timestamp": "2020-11-04T07:09:47.914Z",
         "line": 16,
         "name": "verify the user is able to add the vegetable to the cart",
         "description": "",
@@ -133,7 +133,7 @@
         "after": [
           {
             "result": {
-              "duration": 338000000,
+              "duration": 258000000,
               "status": "passed"
             },
             "match": {
@@ -146,7 +146,7 @@
         "steps": [
           {
             "result": {
-              "duration": 5411000000,
+              "duration": 8324000000,
               "status": "passed"
             },
             "line": 18,
@@ -164,7 +164,7 @@
           },
           {
             "result": {
-              "duration": 4411000000,
+              "duration": 4291000000,
               "status": "passed"
             },
             "line": 19,
@@ -182,7 +182,7 @@
           },
           {
             "result": {
-              "duration": 55000000,
+              "duration": 48000000,
               "status": "passed"
             },
             "line": 20,
@@ -194,7 +194,7 @@
           },
           {
             "result": {
-              "duration": 184000000,
+              "duration": 170000000,
               "status": "passed"
             },
             "line": 21,
@@ -206,7 +206,7 @@
           },
           {
             "result": {
-              "duration": 4448000000,
+              "duration": 4177000000,
               "status": "passed"
             },
             "line": 22,
@@ -218,7 +218,7 @@
           },
           {
             "result": {
-              "duration": 173000000,
+              "duration": 148000000,
               "status": "passed"
             },
             "line": 23,
@@ -242,7 +242,7 @@
     "line": 1,
     "elements": [
       {
-        "start_timestamp": "2020-11-04T06:40:00.640Z",
+        "start_timestamp": "2020-11-04T07:10:05.350Z",
         "line": 3,
         "name": "verify the user is able to see the facebook logo in landing page",
         "description": "",
@@ -250,7 +250,7 @@
         "after": [
           {
             "result": {
-              "duration": 4515000000,
+              "duration": 4436000000,
               "status": "passed"
             },
             "match": {
@@ -263,7 +263,7 @@
         "steps": [
           {
             "result": {
-              "duration": 7717000000,
+              "duration": 5906000000,
               "status": "passed"
             },
             "line": 5,
@@ -281,7 +281,7 @@
           },
           {
             "result": {
-              "duration": 104000000,
+              "duration": 57000000,
               "status": "passed"
             },
             "line": 6,
@@ -294,7 +294,7 @@
         ]
       },
       {
-        "start_timestamp": "2020-11-04T06:40:13.038Z",
+        "start_timestamp": "2020-11-04T07:10:15.764Z",
         "line": 17,
         "name": "Verify the user is able to enter different users cred\u0027s in fb login fields",
         "description": "",
@@ -302,7 +302,7 @@
         "after": [
           {
             "result": {
-              "duration": 4280000000,
+              "duration": 4254000000,
               "status": "passed"
             },
             "match": {
@@ -315,7 +315,7 @@
         "steps": [
           {
             "result": {
-              "duration": 6477000000,
+              "duration": 5860000000,
               "status": "passed"
             },
             "line": 10,
@@ -333,7 +333,7 @@
           },
           {
             "result": {
-              "duration": 264000000,
+              "duration": 235000000,
               "status": "passed"
             },
             "line": 11,
@@ -355,7 +355,7 @@
           },
           {
             "result": {
-              "duration": 154000000,
+              "duration": 168000000,
               "status": "passed"
             },
             "line": 12,
@@ -367,7 +367,6 @@
           },
           {
             "result": {
-              "duration": 1000000,
               "status": "passed"
             },
             "line": 13,
@@ -380,7 +379,7 @@
         ]
       },
       {
-        "start_timestamp": "2020-11-04T06:40:24.235Z",
+        "start_timestamp": "2020-11-04T07:10:26.313Z",
         "line": 18,
         "name": "Verify the user is able to enter different users cred\u0027s in fb login fields",
         "description": "",
@@ -388,7 +387,7 @@
         "after": [
           {
             "result": {
-              "duration": 4308000000,
+              "duration": 264000000,
               "status": "passed"
             },
             "match": {
@@ -401,7 +400,7 @@
         "steps": [
           {
             "result": {
-              "duration": 5799000000,
+              "duration": 5883000000,
               "status": "passed"
             },
             "line": 10,
@@ -419,7 +418,7 @@
           },
           {
             "result": {
-              "duration": 259000000,
+              "duration": 269000000,
               "status": "passed"
             },
             "line": 11,
@@ -441,7 +440,7 @@
           },
           {
             "result": {
-              "duration": 155000000,
+              "duration": 156000000,
               "status": "passed"
             },
             "line": 12,
@@ -465,7 +464,7 @@
         ]
       },
       {
-        "start_timestamp": "2020-11-04T06:40:34.781Z",
+        "start_timestamp": "2020-11-04T07:10:32.903Z",
         "line": 19,
         "name": "Verify the user is able to enter different users cred\u0027s in fb login fields",
         "description": "",
@@ -473,7 +472,7 @@
         "after": [
           {
             "result": {
-              "duration": 4287000000,
+              "duration": 4218000000,
               "status": "passed"
             },
             "match": {
@@ -486,7 +485,7 @@
         "steps": [
           {
             "result": {
-              "duration": 5968000000,
+              "duration": 5974000000,
               "status": "passed"
             },
             "line": 10,
@@ -504,7 +503,7 @@
           },
           {
             "result": {
-              "duration": 332000000,
+              "duration": 303000000,
               "status": "passed"
             },
             "line": 11,
@@ -526,7 +525,7 @@
           },
           {
             "result": {
-              "duration": 174000000,
+              "duration": 139000000,
               "status": "passed"
             },
             "line": 12,
@@ -538,6 +537,7 @@
           },
           {
             "result": {
+              "duration": 1000000,
               "status": "passed"
             },
             "line": 13,

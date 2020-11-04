@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="ChromeOptions.TestRunner" time="78.791" tests="7" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="E:\Projects\Selenium\Greenkartdemo\target\test-classes;E:\Projects\Selenium\Greenkartdemo\target\classes;C:\Users\Abdul\.m2\repository\org\seleniumhq\selenium\selenium-java\3.141.59\selenium-java-3.141.59.jar;C:\Users\Abdul\.m2\repository\org\seleniumhq\selenium\selenium-api\3.141.59\selenium-api-3.141.59.jar;C:\Users\Abdul\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.141.59\selenium-chrome-driver-3.141.59.jar;C:\Users\Abdul\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.141.59\selenium-edge-driver-3.141.59.jar;C:\Users\Abdul\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.141.59\selenium-firefox-driver-3.141.59.jar;C:\Users\Abdul\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.141.59\selenium-ie-driver-3.141.59.jar;C:\Users\Abdul\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.141.59\selenium-opera-driver-3.141.59.jar;C:\Users\Abdul\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.141.59\selenium-remote-driver-3.141.59.jar;C:\Users\Abdul\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.141.59\selenium-safari-driver-3.141.59.jar;C:\Users\Abdul\.m2\repository\org\seleniumhq\selenium\selenium-support\3.141.59\selenium-support-3.141.59.jar;C:\Users\Abdul\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar;C:\Users\Abdul\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\Abdul\.m2\repository\com\google\guava\guava\25.0-jre\guava-25.0-jre.jar;C:\Users\Abdul\.m2\repository\com\google\code\findbugs\jsr305\1.3.9\jsr305-1.3.9.jar;C:\Users\Abdul\.m2\repository\org\checkerframework\checker-compat-qual\2.0.0\checker-compat-qual-2.0.0.jar;C:\Users\Abdul\.m2\repository\com\google\errorprone\error_prone_annotations\2.1.3\error_prone_annotations-2.1.3.jar;C:\Users\Abdul\.m2\repository\com\google\j2objc\j2objc-annotations\1.1\j2objc-annotations-1.1.jar;C:\Users\Abdul\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.14\animal-sniffer-annotations-1.14.jar;C:\Users\Abdul\.m2\repository\com\squareup\okhttp3\okhttp\3.11.0\okhttp-3.11.0.jar;C:\Users\Abdul\.m2\repository\com\squareup\okio\okio\1.14.0\okio-1.14.0.jar;C:\Users\Abdul\.m2\repository\io\cucumber\cucumber-java\6.8.1\cucumber-java-6.8.1.jar;C:\Users\Abdul\.m2\repository\io\cucumber\cucumber-core\6.8.1\cucumber-core-6.8.1.jar;C:\Users\Abdul\.m2\repository\io\cucumber\cucumber-gherkin\6.8.1\cucumber-gherkin-6.8.1.jar;C:\Users\Abdul\.m2\repository\io\cucumber\cucumber-gherkin-messages\6.8.1\cucumber-gherkin-messages-6.8.1.jar;C:\Users\Abdul\.m2\repository\io\cucumber\messages\13.1.0\messages-13.1.0.jar;C:\Users\Abdul\.m2\repository\io\cucumber\tag-expressions\3.0.0\tag-expressions-3.0.0.jar;C:\Users\Abdul\.m2\repository\io\cucumber\cucumber-expressions\10.3.0\cucumber-expressions-10.3.0.jar;C:\Users\Abdul\.m2\repository\io\cucumber\datatable\3.5.0\datatable-3.5.0.jar;C:\Users\Abdul\.m2\repository\io\cucumber\cucumber-plugin\6.8.1\cucumber-plugin-6.8.1.jar;C:\Users\Abdul\.m2\repository\io\cucumber\docstring\6.8.1\docstring-6.8.1.jar;C:\Users\Abdul\.m2\repository\io\cucumber\html-formatter\9.0.0\html-formatter-9.0.0.jar;C:\Users\Abdul\.m2\repository\io\cucumber\create-meta\2.0.2\create-meta-2.0.2.jar;C:\Users\Abdul\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\Abdul\.m2\repository\io\cucumber\cucumber-junit\6.8.1\cucumber-junit-6.8.1.jar;C:\Users\Abdul\.m2\repository\junit\junit\4.13\junit-4.13.jar;C:\Users\Abdul\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="user.country" value="IN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_73\jre\bin"/>
+    <property name="sun.java.command" value="C:\Users\Abdul\AppData\Local\Temp\surefire7846784762125310122\surefirebooter4973513459357392764.jar C:\Users\Abdul\AppData\Local\Temp\surefire7846784762125310122 2020-11-04T12-39-23_010-jvmRun1 surefire2890896942297132380tmp surefire_0920301254345304175tmp"/>
+    <property name="surefire.test.class.path" value="E:\Projects\Selenium\Greenkartdemo\target\test-classes;E:\Projects\Selenium\Greenkartdemo\target\classes;C:\Users\Abdul\.m2\repository\org\seleniumhq\selenium\selenium-java\3.141.59\selenium-java-3.141.59.jar;C:\Users\Abdul\.m2\repository\org\seleniumhq\selenium\selenium-api\3.141.59\selenium-api-3.141.59.jar;C:\Users\Abdul\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.141.59\selenium-chrome-driver-3.141.59.jar;C:\Users\Abdul\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.141.59\selenium-edge-driver-3.141.59.jar;C:\Users\Abdul\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.141.59\selenium-firefox-driver-3.141.59.jar;C:\Users\Abdul\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.141.59\selenium-ie-driver-3.141.59.jar;C:\Users\Abdul\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.141.59\selenium-opera-driver-3.141.59.jar;C:\Users\Abdul\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.141.59\selenium-remote-driver-3.141.59.jar;C:\Users\Abdul\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.141.59\selenium-safari-driver-3.141.59.jar;C:\Users\Abdul\.m2\repository\org\seleniumhq\selenium\selenium-support\3.141.59\selenium-support-3.141.59.jar;C:\Users\Abdul\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar;C:\Users\Abdul\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\Abdul\.m2\repository\com\google\guava\guava\25.0-jre\guava-25.0-jre.jar;C:\Users\Abdul\.m2\repository\com\google\code\findbugs\jsr305\1.3.9\jsr305-1.3.9.jar;C:\Users\Abdul\.m2\repository\org\checkerframework\checker-compat-qual\2.0.0\checker-compat-qual-2.0.0.jar;C:\Users\Abdul\.m2\repository\com\google\errorprone\error_prone_annotations\2.1.3\error_prone_annotations-2.1.3.jar;C:\Users\Abdul\.m2\repository\com\google\j2objc\j2objc-annotations\1.1\j2objc-annotations-1.1.jar;C:\Users\Abdul\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.14\animal-sniffer-annotations-1.14.jar;C:\Users\Abdul\.m2\repository\com\squareup\okhttp3\okhttp\3.11.0\okhttp-3.11.0.jar;C:\Users\Abdul\.m2\repository\com\squareup\okio\okio\1.14.0\okio-1.14.0.jar;C:\Users\Abdul\.m2\repository\io\cucumber\cucumber-java\6.8.1\cucumber-java-6.8.1.jar;C:\Users\Abdul\.m2\repository\io\cucumber\cucumber-core\6.8.1\cucumber-core-6.8.1.jar;C:\Users\Abdul\.m2\repository\io\cucumber\cucumber-gherkin\6.8.1\cucumber-gherkin-6.8.1.jar;C:\Users\Abdul\.m2\repository\io\cucumber\cucumber-gherkin-messages\6.8.1\cucumber-gherkin-messages-6.8.1.jar;C:\Users\Abdul\.m2\repository\io\cucumber\messages\13.1.0\messages-13.1.0.jar;C:\Users\Abdul\.m2\repository\io\cucumber\tag-expressions\3.0.0\tag-expressions-3.0.0.jar;C:\Users\Abdul\.m2\repository\io\cucumber\cucumber-expressions\10.3.0\cucumber-expressions-10.3.0.jar;C:\Users\Abdul\.m2\repository\io\cucumber\datatable\3.5.0\datatable-3.5.0.jar;C:\Users\Abdul\.m2\repository\io\cucumber\cucumber-plugin\6.8.1\cucumber-plugin-6.8.1.jar;C:\Users\Abdul\.m2\repository\io\cucumber\docstring\6.8.1\docstring-6.8.1.jar;C:\Users\Abdul\.m2\repository\io\cucumber\html-formatter\9.0.0\html-formatter-9.0.0.jar;C:\Users\Abdul\.m2\repository\io\cucumber\create-meta\2.0.2\create-meta-2.0.2.jar;C:\Users\Abdul\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\Abdul\.m2\repository\io\cucumber\cucumber-junit\6.8.1\cucumber-junit-6.8.1.jar;C:\Users\Abdul\.m2\repository\junit\junit\4.13\junit-4.13.jar;C:\Users\Abdul\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\Abdul"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_73\jre"/>
+    <property name="basedir" value="E:\Projects\Selenium\Greenkartdemo"/>
+    <property name="file.separator" value="\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\Abdul\AppData\Local\Temp\surefire7846784762125310122\surefirebooter4973513459357392764.jar"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_73\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_73\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_73\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_73\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_73\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_73\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_73\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_73\jre\classes"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="1.8.0_73-b02"/>
+    <property name="user.name" value="Abdul"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_73\jre\lib\endorsed"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="browser" value="chrome"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\Abdul\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\Abdul\AppData\Local\Temp\"/>
+    <property name="java.version" value="1.8.0_73"/>
+    <property name="user.dir" value="E:\Projects\Selenium\Greenkartdemo"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_73\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\WindowsApps\CanonicalGroupLimited.Ubuntu18.04onWindows_1804.2019.522.0_x64__79rhkp1fndgsc;E:\Softwares\System\Selenium files\sdk-tools-windows-4333796\tools;E:\Softwares\System\Selenium files\apache-maven-3.6.2-bin\apache-maven-3.6.2\bin;C:\Program Files\Java\jdk1.8.0_73\bin;C:\Program Files\Git\cmd;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Abdul\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Abdul\AppData\Local\Microsoft\WindowsApps;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="25.73-b02"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_73\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="52.0"/>
+  </properties>
+  <testcase name="Verify user is successsfully navigated to Green kart Landing page" classname="Greenkart app validation" time="10.12">
+    <system-out><![CDATA[
+Scenario: Verify user is successsfully navigated to Green kart Landing page                       # src/test/java/feature/demo1.feature:3
+  Given user navigated to the Greenkart site "https://rahulshettyacademy.com/seleniumPractise/#/" # stepdefenation.Stepdef1.user_navigated_to_the_greenkart_site_something(java.lang.String)
+  Then user is able to validate the Logo                                                          # stepdefenation.Stepdef1.user_is_able_to_validate_the_logo()
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 85.0.4183.87 (cd6713ebf92fa1cacc0f1a598df280093af0c5d7-refs/branch-heads/4183@{#1689}) on port 41701
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1604473770.847][WARNING]: This version of ChromeDriver has not been tested with Chrome version 86.
+Nov 04, 2020 12:39:33 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+  </testcase>
+  <testcase name="Verify the user is able to search the brinjal" classname="Greenkart app validation" time="9.797">
+    <system-out><![CDATA[
+Scenario: Verify the user is able to search the brinjal                                           # src/test/java/feature/demo1.feature:9
+  Given user navigated to the Greenkart site "https://rahulshettyacademy.com/seleniumPractise/#/" # stepdefenation.Stepdef1.user_navigated_to_the_greenkart_site_something(java.lang.String)
+brinjal
+  When user entered the text "brinjal" in search box                                              # stepdefenation.Stepdef1.user_entered_the_text_something_in_search_box(java.lang.String)
+  Then user is able to see the search result                                                      # stepdefenation.Stepdef1.user_is_able_to_see_the_search_result()
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 85.0.4183.87 (cd6713ebf92fa1cacc0f1a598df280093af0c5d7-refs/branch-heads/4183@{#1689}) on port 25824
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1604473779.568][WARNING]: This version of ChromeDriver has not been tested with Chrome version 86.
+Nov 04, 2020 12:39:41 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+  </testcase>
+  <testcase name="verify the user is able to add the vegetable to the cart" classname="Greenkart app validation" time="17.492">
+    <system-out><![CDATA[
+Scenario: verify the user is able to add the vegetable to the cart                                # src/test/java/feature/demo1.feature:16
+  Given user navigated to the Greenkart site "https://rahulshettyacademy.com/seleniumPractise/#/" # stepdefenation.Stepdef1.user_navigated_to_the_greenkart_site_something(java.lang.String)
+brinjal
+  When user entered the text "brinjal" in search box                                              # stepdefenation.Stepdef1.user_entered_the_text_something_in_search_box(java.lang.String)
+  Then user is able to see the search result                                                      # stepdefenation.Stepdef1.user_is_able_to_see_the_search_result()
+  When user clicks on Add to cart                                                                 # stepdefenation.Stepdef1.user_clicks_on_add_to_cart()
+  And clicks on cart icon                                                                         # stepdefenation.Stepdef1.clicks_on_cart_icon()
+  Then the user is able to see the added item in the cart                                         # stepdefenation.Stepdef1.the_user_is_able_to_see_the_added_item_in_the_cart()
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 85.0.4183.87 (cd6713ebf92fa1cacc0f1a598df280093af0c5d7-refs/branch-heads/4183@{#1689}) on port 24203
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1604473789.398][WARNING]: This version of ChromeDriver has not been tested with Chrome version 86.
+Nov 04, 2020 12:39:51 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+  </testcase>
+  <testcase name="verify the user is able to see the facebook logo in landing page" classname="Verify the facebook login functionality" time="10.352">
+    <system-out><![CDATA[
+Scenario: verify the user is able to see the facebook logo in landing page    # src/test/java/feature/demo2.feature:3
+  Given user navigated to the facebook login page "https://www.facebook.com/" # stepdefenation.stepdef2.user_navigated_to_the_facebook_login_page_something(java.lang.String)
+  Then user is able to see the facebook logo                                  # stepdefenation.stepdef2.user_is_able_to_see_the_facebook_logo()
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 85.0.4183.87 (cd6713ebf92fa1cacc0f1a598df280093af0c5d7-refs/branch-heads/4183@{#1689}) on port 30213
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1604473806.811][WARNING]: This version of ChromeDriver has not been tested with Chrome version 86.
+Nov 04, 2020 12:40:08 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+  </testcase>
+  <testcase name="Verify the user is able to enter different users cred&apos;s in fb login fields #1" classname="Verify the facebook login functionality" time="10.643">
+    <system-out><![CDATA[
+Scenario Outline: Verify the user is able to enter different users cred's in fb login fields # src/test/java/feature/demo2.feature:17
+  Given user navigated to the facebook login page "https://www.facebook.com/"                # stepdefenation.stepdef2.user_navigated_to_the_facebook_login_page_something(java.lang.String)
+  When user entered the usernameuser1 and password123                                        # stepdefenation.stepdef2.user_entered_the_username_and_password(java.lang.String,java.lang.String)
+  And clicked on Login                                                                       # stepdefenation.stepdef2.clicked_on_login()
+Successfully logged in
+  Then user is able to login to fb account                                                   # stepdefenation.stepdef2.user_is_able_to_login_to_fb_account()
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 85.0.4183.87 (cd6713ebf92fa1cacc0f1a598df280093af0c5d7-refs/branch-heads/4183@{#1689}) on port 10396
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1604473817.217][WARNING]: This version of ChromeDriver has not been tested with Chrome version 86.
+Nov 04, 2020 12:40:19 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+  </testcase>
+  <testcase name="Verify the user is able to enter different users cred&apos;s in fb login fields #2" classname="Verify the facebook login functionality" time="6.511">
+    <system-out><![CDATA[
+Scenario Outline: Verify the user is able to enter different users cred's in fb login fields # src/test/java/feature/demo2.feature:18
+  Given user navigated to the facebook login page "https://www.facebook.com/"                # stepdefenation.stepdef2.user_navigated_to_the_facebook_login_page_something(java.lang.String)
+  When user entered the usernameuser2 and password456                                        # stepdefenation.stepdef2.user_entered_the_username_and_password(java.lang.String,java.lang.String)
+  And clicked on Login                                                                       # stepdefenation.stepdef2.clicked_on_login()
+Successfully logged in
+  Then user is able to login to fb account                                                   # stepdefenation.stepdef2.user_is_able_to_login_to_fb_account()
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 85.0.4183.87 (cd6713ebf92fa1cacc0f1a598df280093af0c5d7-refs/branch-heads/4183@{#1689}) on port 10521
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1604473827.779][WARNING]: This version of ChromeDriver has not been tested with Chrome version 86.
+Nov 04, 2020 12:40:29 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+  </testcase>
+  <testcase name="Verify the user is able to enter different users cred&apos;s in fb login fields #3" classname="Verify the facebook login functionality" time="10.746">
+    <system-out><![CDATA[
+Scenario Outline: Verify the user is able to enter different users cred's in fb login fields # src/test/java/feature/demo2.feature:19
+  Given user navigated to the facebook login page "https://www.facebook.com/"                # stepdefenation.stepdef2.user_navigated_to_the_facebook_login_page_something(java.lang.String)
+  When user entered the username8790148056 and password123019290                             # stepdefenation.stepdef2.user_entered_the_username_and_password(java.lang.String,java.lang.String)
+  And clicked on Login                                                                       # stepdefenation.stepdef2.clicked_on_login()
+Successfully logged in
+  Then user is able to login to fb account                                                   # stepdefenation.stepdef2.user_is_able_to_login_to_fb_account()
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 85.0.4183.87 (cd6713ebf92fa1cacc0f1a598df280093af0c5d7-refs/branch-heads/4183@{#1689}) on port 41876
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1604473834.422][WARNING]: This version of ChromeDriver has not been tested with Chrome version 86.
+Nov 04, 2020 12:40:36 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+  </testcase>
+</testsuite>

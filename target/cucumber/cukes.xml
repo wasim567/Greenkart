@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="7" time="77.387">
-<testcase classname="Greenkart app validation" name="Verify user is successsfully navigated to Green kart Landing page" time="6.922">
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="7" time="75.334">
+<testcase classname="Greenkart app validation" name="Verify user is successsfully navigated to Green kart Landing page" time="9.527">
 <system-out><![CDATA[Given user navigated to the Greenkart site "https://rahulshettyacademy.com/seleniumPractise/#/".passed
 Then user is able to validate the Logo......................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Greenkart app validation" name="Verify the user is able to search the brinjal" time="10.026">
+<testcase classname="Greenkart app validation" name="Verify the user is able to search the brinjal" time="9.781">
 <system-out><![CDATA[Given user navigated to the Greenkart site "https://rahulshettyacademy.com/seleniumPractise/#/".passed
 When user entered the text "brinjal" in search box..........................passed
 Then user is able to see the search result..................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Greenkart app validation" name="verify the user is able to add the vegetable to the cart" time="15.038">
+<testcase classname="Greenkart app validation" name="verify the user is able to add the vegetable to the cart" time="17.42">
 <system-out><![CDATA[Given user navigated to the Greenkart site "https://rahulshettyacademy.com/seleniumPractise/#/".passed
 When user entered the text "brinjal" in search box..........................passed
 Then user is able to see the search result..................................passed
@@ -20,26 +20,26 @@ And clicks on cart icon.....................................................pass
 Then the user is able to see the added item in the cart.....................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Verify the facebook login functionality" name="verify the user is able to see the facebook logo in landing page" time="12.367">
+<testcase classname="Verify the facebook login functionality" name="verify the user is able to see the facebook logo in landing page" time="10.399">
 <system-out><![CDATA[Given user navigated to the facebook login page "https://www.facebook.com/".passed
 Then user is able to see the facebook logo..................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Verify the facebook login functionality" name="Verify the user is able to enter different users cred's in fb login fields" time="11.182">
+<testcase classname="Verify the facebook login functionality" name="Verify the user is able to enter different users cred's in fb login fields" time="10.534">
 <system-out><![CDATA[Given user navigated to the facebook login page "https://www.facebook.com/".passed
 When user entered the usernameuser1 and password123.........................passed
 And clicked on Login........................................................passed
 Then user is able to login to fb account....................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Verify the facebook login functionality" name="Verify the user is able to enter different users cred's in fb login fields 2" time="10.531">
+<testcase classname="Verify the facebook login functionality" name="Verify the user is able to enter different users cred's in fb login fields 2" time="6.574">
 <system-out><![CDATA[Given user navigated to the facebook login page "https://www.facebook.com/".passed
 When user entered the usernameuser2 and password456.........................passed
 And clicked on Login........................................................passed
 Then user is able to login to fb account....................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Verify the facebook login functionality" name="Verify the user is able to enter different users cred's in fb login fields 3" time="10.776">
+<testcase classname="Verify the facebook login functionality" name="Verify the user is able to enter different users cred's in fb login fields 3" time="10.637">
 <system-out><![CDATA[Given user navigated to the facebook login page "https://www.facebook.com/".passed
 When user entered the username8790148056 and password123019290..............passed
 And clicked on Login........................................................passed
